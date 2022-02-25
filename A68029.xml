@@ -1,0 +1,678 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Flores aliquot sententiarum ex variis collecti scriptoribus. = The flowres of sencies gathered out of sundry wryters by Erasmus in Latine and Englished by Rychard Tauerner. Huic libello non male conuenient Mimi illi Publiani nuper ab eodem Richardo versi</title>
+            <title>Aliquot sententiae insignes. English. Selections</title>
+            <author>Erasmus, Desiderius, d. 1536.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68029</idno>
+            <idno type="STC">STC 10447.5</idno>
+            <idno type="STC">ESTC S105536</idno>
+            <idno type="EEBO-CITATION">99841263</idno>
+            <idno type="PROQUEST">99841263</idno>
+            <idno type="VID">5833</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5833)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 38:14, 1832:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Flores aliquot sententiarum ex variis collecti scriptoribus. = The flowres of sencies gathered out of sundry wryters by Erasmus in Latine and Englished by Rychard Tauerner. Huic libello non male conuenient Mimi illi Publiani nuper ab eodem Richardo versi</title>
+                  <title>Aliquot sententiae insignes. English. Selections</title>
+                  <author>Erasmus, Desiderius, d. 1536.</author>
+                  <author>Taverner, Richard, 1505?-1575.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Ex edibus Wilhelmi Copland [for Richard Kele],</publisher>
+                  <pubPlace>Londini :</pubPlace>
+                  <date>Anno. M.D.L. [1550]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A selection from Erasmus's collection "Aliquot sententiae insignes".</note>
+                  <note>Each aphorism in Latin followed by the English translation of Erasmus's paraphrase.</note>
+                  <note>Signatures: A.</note>
+                  <note>Running title reads "Sententiarum. Flores" or "Flores sententiarum".</note>
+                  <note>Colophon reads "Imprynted at London in Flete-strete at the sygne of the Rose Garland by Wyllyam Copland. for Rychard Kele dwellynge in Lombard strete nere vnto the Stockes market at the sygne of the Egle.". A variant (STC 10447) has colophon ending with "Copland".</note>
+                  <note>This item appears at reel 38:14 incorrectly identified as STC 10447 and at 1832:42 as STC (2nd ed.) 10447.5.</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5833:1"/>
+            <pb facs="tcp:5833:1"/>
+            <p>Flores ali<g ref="char:EOLhyphen"/>quot ſententiarum ex varus collecti ſcriptoribus.</p>
+            <p>¶ The flowres of ſencies gathered out of ſundry wryters by Eraſmus in Latine and Engliſhed by Rychard Tauerner.</p>
+            <p>¶ Huic libello non male conuenient Mimi illi Publiani nuper ab eodem Richardo verſi.</p>
+            <p>¶ Londini. ¶ Ex edibus Wilhelmi Copland Anno. M.D.L.</p>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:5833:2"/>
+            <head>¶ Richardus Tauernerus Britatannice pubi. S.D.</head>
+            <p>IN codo hic vobis flor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntiſſima pubes Britannica, flores ſententiaru<g ref="char:cmbAbbrStroke">̄</g> non<g ref="char:EOLunhyphen"/>nullos (ſic enim hunc libellu<g ref="char:cmbAbbrStroke">̄</g> appellare <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> auctore ſui ſeculi Deſiderio Eraſmo roterodamo <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>os, et modo a nobis d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lucide magis <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ate in Anglicum ſermonem verſos. Quod ſi <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nostras lucubratiunculas grata manu accip<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grauabimini: erit ꝙ vehementer gaudeam<g ref="char:punc">▪</g> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> vnabquam; me pegebit, quat<gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>m <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is obſtrep<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in commodum veſtrum ſubinde repuer aſcer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sinautem hii floſculi videbuntur paulo mi<g ref="char:EOLhyphen"/>nutiores, aut forſitan etirant nugaciores <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan> vt in vulgus <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dantur (<expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan> 
+               <expan>
+                  <am>
+                     <g ref="char:abquam"/>
+                  </am>
+                  <ex>quam</ex>
+               </expan> he nug<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> equa<g ref="char:cmbAbbrStroke">̄</g>tu<g ref="char:cmbAbbrStroke">̄</g> uis minute feria ducut) animum certe meum veſtri ſtudioſiſſimu<g ref="char:cmbAbbrStroke">̄</g> impro<g ref="char:EOLhyphen"/>bare haud ſane poteritis Be<g ref="char:EOLunhyphen"/>ne valete.</p>
+            <closer>
+               <dateline>Ex aula regia <date>idibus Sep<g ref="char:EOLhyphen"/>tembribus. Anno. M.D.xlvii.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5833:2"/>
+            <head>Aliquot ſen<g ref="char:EOLhyphen"/>tentiarum flores ex variis collecti ſcrip<g ref="char:EOLhyphen"/>toribus per Deſid, Eraſmum Ro<g ref="char:EOLhyphen"/>terodamum vna cum interpreti<g ref="char:EOLhyphen"/>one Richardi Tauerneri Se<g ref="char:EOLhyphen"/>remiſſino regi Anglie ab<g ref="char:EOLhyphen"/>annula Signatorio:</head>
+            <list>
+               <head>¶ The Sayenges of Pictacus.</head>
+               <label>
+                  <seg rend="decorInit">D</seg>Ifficilia, que pulchra.</label>
+               <item>Goodly thynges be hard,</item>
+               <label>Magiſtratus virum arguit.</label>
+               <item>Authoritie or offyce vtt<g ref="char:EOLhyphen"/>reth what the man is.</item>
+               <label>Prudentis eſt proſpicere ne quid <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>is tolerare, ſi quid, forte ob<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>erit. </label>
+               <item>
+                  <pb facs="tcp:5833:3"/>
+It is a wyſe mans part to forſe that no euyl do chaunce vnto hym, and againe <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is an hardye mans parte to ſuffre yf any evyll do chance hym.</item>
+               <label>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> calamitatem ſuam exprobavit.</label>
+               <item>
+                  <unclear>Vpbrayed</unclear> noman of hys miſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortune.</item>
+               <label>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> equalem ducito.</label>
+               <item>Marrye a wyfe of no hygher byrth or <unclear>ſtate</unclear> than thou art thy ſelfe.</item>
+            </list>
+            <list>
+               <head>Bias.</head>
+               <label>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> nature munus eſt. Diuitis dantu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>na Sapientia anim<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> bonum</label>
+               <item>To be ſtronge of bodye is the gyfte of nature. Ryches is geuen of fortune, &amp; wyſedome is the good thynge of the mynde.</item>
+               <label>Ita diſpenſa tempus, quaſi et diu victurus, et mo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moriturus.</label>
+               <item>So diſpoſe thy tyme, as thou ſhuldeſt both liue longe, and alſo dye ſhortely.</item>
+               <label>Delibera lente, quod decreueris conſtanter vrge.</label>
+               <item>Take longe aduyſement, but the thing that thou haſt ones determined ſet vpo<g ref="char:cmbAbbrStroke">̄</g> it conſtantly</item>
+               <label>Ne preceps ſis ad loquendum.</label>
+               <item>Be not headye or raſhe to ſpeake</item>
+               <label>
+                  <pb facs="tcp:5833:3"/>
+Peſſimi conſultores ſunt ira et precipitantia.</label>
+               <item>Wrath and raſhenes be two the worſt counſaylers that can be.</item>
+               <label>Sapiens oi<g ref="char:cmbAbbrStroke">̄</g>a ſua bona ſecum portat.</label>
+               <item>The wiſe man carieth all hys goodes wyth hym.</item>
+            </list>
+            <list>
+               <head>Cleobulus.</head>
+               <label>Amicos beneficiis foue, quo fiant amictores, inimi<g ref="char:EOLhyphen"/>cis bene fac, quo fiant amici.</label>
+               <item>Maynteyne thy frendes wyth benefy<g ref="char:EOLhyphen"/>tes to make them more frendly, and do good to thyne enemyes, to make them thy frendes.</item>
+               <label>Egreſſurus domu<g ref="char:cmbAbbrStroke">̄</g>, tecu<g ref="char:cmbAbbrStroke">̄</g> expendito quid foris agere velis domum vbi redieris, quid egeris reputato.</label>
+               <item>When thou goeſt from whome, pondre w<hi rend="sup">t</hi> thy ſelfe what thou wylte do abrode And when thou returneſt home record wyth thy ſelfe what thou haſt done.</item>
+               <label>Audiendi quam loquende ſtudioſior eſto.</label>
+               <item>Be more deſyrouſe to heare, then to ſpe<g ref="char:EOLunhyphen"/>ake.</item>
+               <label>Voluptari fren<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>cito.</label>
+               <item>Brydle thy pleaſoure.</item>
+               <label>Vxori preſentibus aliis not blandire <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> facito.</label>
+               <item>
+                  <pb facs="tcp:5833:4"/>
+In preſence of other, neyther flatter thy wyfye nor chyde her.</item>
+               <label>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>dis ne efferaris, aduerſis ne deliciaris</label>
+               <item>With proſperetie be thou not lyfted vp <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith aduerſitie be not caſte downe.</item>
+            </list>
+            <list>
+               <head>Periander.</head>
+               <label>
+                  <unclear>Voluptas</unclear> cito perit, honos immortalis eſt.</label>
+               <item>Pleaſure ſone periſheth, but honoure neuer dyeth.</item>
+               <label>Tuta res quies, periculoſa temeritas.</label>
+               <item>Quietnes is a ſure thynge but raſh<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſſe is daungerouſe.</item>
+               <label>In rebus proſperis eſto moderatus<g ref="char:punc">▪</g> in aduerſis prudens.</label>
+               <item>In proſperitie be ſobre, in aduerſitie wyſe.</item>
+               <label>Cura poteſt omnia.</label>
+               <item>Diligence and ſtudy can do al thynges</item>
+            </list>
+            <list>
+               <head>Anacharſis.</head>
+               <label>De arte non iudicat utſi artifex.</label>
+               <item>Of a crafte can no man iudge but the craftes man.</item>
+               <label>Ex alicuis vitiis diſce quam foeda ſine tua.</label>
+               <item>By other me<g ref="char:cmbAbbrStroke">̄</g>nes vices letne how foule thyne owne be.</item>
+               <label>Linguam, ventrem, et pudenda cohibe.</label>
+               <item>
+                  <pb facs="tcp:5833:4"/>
+Charme the tonge, bely and priuites.</item>
+            </list>
+            <list>
+               <head>Thales.</head>
+               <label>Difficillimum eſt omnium uoſce ſeipſum</label>
+               <item>It is the hardeſt poynte of all<g ref="char:punc">▪</g> a man to knowe him ſelfe.</item>
+               <label>Que in aliis damnes, ipſe ne feceris.</label>
+               <item>Suche thynges as thou doſte con<g ref="char:EOLhyphen"/>demne and blame in other, do theym not thy ſelfe.</item>
+               <label>Amicorum non minus abſentium quam preſentium mentores eſſe oportet.</label>
+               <item>It be houeth vs to remembre our fren<g ref="char:EOLhyphen"/>des aſwell abſent as preſent.</item>
+               <label>Animus honeſtis artibus excole<g ref="char:cmbAbbrStroke">̄</g>dus eſt, potius qua<g ref="char:cmbAbbrStroke">̄</g> forma corporis componenda.</label>
+               <item>A man ought rather to garniſhe his mynde wyth honeſt artes, then to decke the forme of hys body.</item>
+               <label>Ne queras fraude diteſcere.</label>
+               <item>Seke not to grow rych by falſhode.</item>
+               <label>Qualem gratiam te tuleris parentibus tuis, talem expecta et a liberis tuis.</label>
+               <item>Suche thanke as thou haſte yelded to thy parentes, loke for the lyke of thy chyldren,</item>
+            </list>
+            <list>
+               <head>Solon.</head>
+               <label>Virtus fidelior eſt in re iurando.</label>
+               <item>
+                  <pb facs="tcp:5833:5"/>
+There is more truſte in honeſtye then in an othe.</item>
+               <label>Quod preciarum eſt, accurate agendum.</label>
+               <item>A thynge of excellence ought to be fyne<g ref="char:EOLunhyphen"/>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> done.</item>
+               <label>
+                  <gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>um ne temere recipito, receptum reiicito.</label>
+               <item>Receyue no man raſhly into thy frend<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hyp and when thou haſt receyued hym <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſt hym not of.</item>
+               <label>Jmpera, ſed prius edoctus imperio parete.</label>
+               <item>Deſyre to beare ſome rule but fyrſt ler<g ref="char:EOLunhyphen"/>ne to be obedient vnto rule thy ſelfe.</item>
+               <label>Cum regibus (dixit Aeſopus) aut omnino non lo<g ref="char:EOLhyphen"/>quendum, aut que ſunt iucundiſſima loquid oportet</label>
+               <item>Wyth kynges (ſayde Eſope) it were beſt eyther not to ſpeake atte all, or to ſpeake thynges moſt pleaſaunt.</item>
+               <label>Immo, inquit Solon. Cum regibus aut omnino non loquendum, aut que ſunt optima loqui oportet</label>
+               <item>Nay ſaythe Solon. Wyth kynges it were beſt eyther not to ſpeake at all, or to ſpeake the beſt thynges.</item>
+               <label>Rationi pareto.</label>
+               <item>Obey reaſon.</item>
+               <label>Malorum conſnetudinem fugito.</label>
+               <item>
+                  <pb facs="tcp:5833:5"/>
+Eſchue the felowſhyp of euell dyſpoſed men.</item>
+               <label>In defunctum maledicta ne congerito.</label>
+               <item>Rayle not vpon him that is deade.</item>
+               <label>Filius ne patentem alere cogitur, a quo nullam ar<g ref="char:EOLhyphen"/>tem edoctus eſt.</label>
+               <item>Let not the ſonne be compelled to fynd hys father in hys extreme pouerte and nede, of whom he hath not bene taught or broughte vp in anye ſcience or oc<g ref="char:EOLhyphen"/>cupation.</item>
+               <label>Vite finem ſpectato.</label>
+               <item>Prayſe no man for bleſſed and happy tyll thou ſe the ende of hys lyfe.</item>
+            </list>
+            <list>
+               <head>Philo-lacedemonius.</head>
+               <label>Si direris que vis, audies que non vis.</label>
+               <item>If thou ſpeake what thou wylte, thou ſhalt heare what thou wilt not.</item>
+               <label>Damnum turpi lucro potius eſto.</label>
+               <item>Preferre damage afore foule lucre.</item>
+               <label>Ne lingua preuertatur animum.</label>
+               <item>Lette not the tounge runne before the wytte.</item>
+               <label>Que fieri non poſſunt ne tentes.</label>
+               <item>Aſſaye not the thynges that can <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> brought aboute.</item>
+               <label>Index aurum, aurum <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </label>
+               <item>
+                  <pb facs="tcp:5833:6"/>
+The touche ſtone tryethe golde, golde tryeth men.</item>
+               <label>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>to tanqua<g ref="char:cmbAbbrStroke">̄</g> oſurus, oderis tanquam amaturus</label>
+               <item>Loue as thoughe thou ſhuldeſt in <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>me commynge hate, and hate as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>houghe thou ſhuldeſt in tyme com<g ref="char:EOLhyphen"/>mynge loue.</item>
+            </list>
+            <list>
+               <head>Ariſtippus.</head>
+               <label>Opes <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> tibi para, que naui fracta ſimul <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>.</label>
+               <item>Seke the ſuche ryches whyche yf the ſhyp breake maye ſwimme forth togy<g ref="char:EOLhyphen"/>ther with the owner.</item>
+               <label>Fortune bona varii caſus eripiunt bona animi que ſola vere bona ſunt, nec incendium nec naufragiu<g ref="char:cmbAbbrStroke">̄</g> poteſt eripere.</label>
+               <item>The goodes of fortune be taken awaye by ſundry caſualties but the goodes of the mynde whyche be onlye y<hi rend="sup">e</hi> true good<g ref="char:EOLunhyphen"/>des can be take awaye neyther by fyer nor by ſhypwrake</item>
+               <label>Diſce puer, que viro ſunt vſui futura.</label>
+               <item>Lerne when thou art a chylde ſuch thin<g ref="char:EOLunhyphen"/>ges as ſhalbe profytable to the when y<hi rend="sup">u</hi> art a man.</item>
+            </list>
+            <list>
+               <pb facs="tcp:5833:6"/>
+               <head>Theophraſtus.</head>
+               <label>Preciociſſimus ſumptus eſt tempus.</label>
+               <item>Tyme is the moſt preciouſe coſt that a man can beſtowe.</item>
+            </list>
+            <list>
+               <head>Antiſthenes.</head>
+               <label>Regium eſt an dire male, quum feceris bene.</label>
+               <item>It is geuen to a kynge, though he do neuer ſo well yet to be euel ſpoken of</item>
+               <label>Satius eſt in coraces quam in cola<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es .i. in coruos quam in adulatores incidere, Illi mortu<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> exedu<g ref="char:cmbAbbrStroke">̄</g>t hi viuum etiam.</label>
+               <item>It is better of the tweyne, to fal amon<g ref="char:EOLunhyphen"/>ges a ſort of rauens, the<g ref="char:cmbAbbrStroke">̄</g> amo<g ref="char:cmbAbbrStroke">̄</g>ges ftatte<g ref="char:EOLhyphen"/>rers. The rauens eate a man whe<g ref="char:cmbAbbrStroke">̄</g> he is dead, but the flatterers eate him quicke</item>
+               <label>Quod rubigo eſt ferro, hoc liuor eſt homini.</label>
+               <item>That ruſt dothe to yron, that doth in<g ref="char:EOLhyphen"/>uye to man.</item>
+               <label>Fratrum concordia quouis muro tutior.</label>
+               <item>The concorde of brethren is ſurer then any ſtone wale.</item>
+               <label>Precipua diſciplina eſt dediſcere mala.</label>
+               <item>The chiefeſt lernynge is to vnlerne vices.</item>
+            </list>
+            <list>
+               <head>Diogenes.</head>
+               <label>Vir bonus dei ſimulachrum eſt.</label>
+               <item>A good man is the ymage of god.</item>
+               <label>
+                  <pb facs="tcp:5833:7"/>
+Amor <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>rum est negotium.</label>
+               <item>Loue is the buſynes of loyterers.</item>
+               <label>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>egens.</label>
+               <item>
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ge is a thynge moſt miſerable.</item>
+               <label>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> morde<g ref="char:cmbAbbrStroke">̄</g>t ex feris beſtiis obtrectator <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> adulator.</label>
+               <item>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be two whyche byte moſt deedly wy<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>de beaſtes, the backbyter, and of <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tterer.</item>
+               <label>
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> eſt mellitus laqueus.</label>
+               <item>
+                  <unclear>A flatterynge</unclear> ſpeche is a honye ſwete <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <label>Qui preclare loquuntur nec faciunt <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>thare ſimiles ſunt que ſonat aliis ipſa nec audiens, nec ſentiens</label>
+               <item>They that ſpeake gloriouſly but do no thing therafter them ſelfes, be lyke to a hatpe whiche maketh a ſounde to other but it ſelf neyther hereth nor perceyueth</item>
+               <label>Fruſtra viuit, cui vt bene viuat nulla cura eſt.</label>
+               <item>He lyueth vaynly whyche hath no care to lyue wel.</item>
+               <label>Qui forma decoris indecore loquitur, ex eburnea vagina plumbeum educit gladium.</label>
+               <item>A goodly perſo<g ref="char:cmbAbbrStroke">̄</g> that ſpeaketh vngood<g ref="char:EOLunhyphen"/>lye wordes, draweth forth a leade<g ref="char:cmbAbbrStroke">̄</g> ſwerd out of an Iuery ſkaberd.</item>
+               <label>
+                  <pb facs="tcp:5833:7"/>
+Serui heris, improbe ſeruiunt cupiditati<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us.</label>
+               <item>Bonde men be thralle to theyr May<g ref="char:EOLunhyphen"/>ſtrers, and wicked men to theyr luſtes.</item>
+               <label>Eruditio iuuenibus ſobrietas eſt, ſe<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap> sola<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iu<g ref="char:cmbAbbrStroke">̄</g> pauperibus diuitio, diuitibus ornamentum</label>
+               <item>Lernynge is to yong men a ſobrenes to olde me<g ref="char:cmbAbbrStroke">̄</g> a ſolace, to poore men ryches to ryche men a garniſhment.</item>
+               <label>Nobilitas, gloria, diuitie malitie sunt veſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>menta</label>
+               <item>Nobiletie, glorie, riches be the clo<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>s of naughtynes</item>
+            </list>
+            <list>
+               <head>Socrates.</head>
+               <label>Qui ſupra nos, nihil ad nos.</label>
+               <item>The thyngs that be aboue vs, perteyne nought vnto vs.</item>
+               <label>Hoc vnum ſcio me nihil ſcire.</label>
+               <item>Thys one thing I knowe that I kno<g ref="char:EOLhyphen"/>we nothynge.</item>
+            </list>
+            <list>
+               <head>Crates.</head>
+               <label>Vt in omni malo punico granu<g ref="char:cmbAbbrStroke">̄</g> aliquot putre eſt, ita n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mo reperitur vndequa<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> purus a vitro.</label>
+               <item>Lyke as in euery pomegranat there is ſome kernell rotten: ſo there is no man founde throughly cleane from vice.</item>
+            </list>
+            <list>
+               <head>zeno citienſis.</head>
+               <label>Non qui magnus, ſtatim bonus eſt, ſed quiſqui<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bonus, idem et magnus eſt.</label>
+               <item>
+                  <pb facs="tcp:5833:8"/>
+It foloweth not, that whoſoeuer is gre<g ref="char:EOLunhyphen"/>ate is <gap reason="illegible" extent="2+ letters">
+                     <desc>••…</desc>
+                  </gap>th with good, but whoſoeuer is good the ſame is alſo great.</item>
+               <label>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atura dedit homini aures duas, os vnicum <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> audiamus quam loquamur.</label>
+               <item>
+                  <unclear>Nature</unclear> hath gyuen man therfore two <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and but one mouthe, that we <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> be readyer to heare then to <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <label>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>endi ſunt homines potius qua<g ref="char:cmbAbbrStroke">̄</g> perſuaſione magis quam violentia.</label>
+               <item>Men oughte to be drawen rather by the eares then by the gowne, that is to ſaye, rather by perſwaſyon than by vio<g ref="char:EOLhyphen"/>lence.</item>
+            </list>
+            <list>
+               <head>Themiſtoc<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</head>
+               <label>Preſtat habere vitos egentos pecunia, quam pecu<g ref="char:EOLunhyphen"/>niam egentem vitis.</label>
+               <item>It is better to haue men wantyng mo<g ref="char:EOLhyphen"/>nye, then monye wantinge men.</item>
+            </list>
+            <list>
+               <head>Pericles,</head>
+               <label>Amicum eſſe licet ſed vſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad aras.</label>
+               <item>A man maye be a frende, but he muſte go no further wyth hys frende then til he come to the aulter<g ref="char:punc">▪</g> that is he may of<g ref="char:EOLhyphen"/>fende
+<pb facs="tcp:5833:8"/>god for his frendes cauſe.</item>
+            </list>
+            <list>
+               <head>Lamachus.</head>
+               <label>Non licet in vello bis pecare</label>
+               <item>It is not lawfull in battel to make a faulte twyſe.</item>
+            </list>
+            <list>
+               <head>I<gap reason="illegible" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>crates.</head>
+               <label>Indecora <gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>ti vox <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> expecatam.</label>
+               <item>It is an vncombly ſayenge for <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> wyſe ma<g ref="char:cmbAbbrStroke">̄</g> to ſaye, I wolde not haue thought it or wolde not haue loked that <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> ſh<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> haue come ſo to paſſe.</item>
+            </list>
+            <list>
+               <head>M. <gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ius.</head>
+               <label>Preſtantius eſt imperare aurum habentibus viris quam habere aurum.</label>
+               <item>It is farre better for a man to beare a rule vpon men hauynge golde, then to haue golde hymſelfe.</item>
+            </list>
+            <list>
+               <head>Cato ſenſor.</head>
+               <label>Mirum eam ciuitatem ſaluam aſſe poſſe, in qua mi<g ref="char:EOLhyphen"/>noris veneat bos quam piſcis.</label>
+               <item>It is meruayle that, that citie can be ſaufe, in whyche an oxe is ſolde for leſſe price, then a fiſhe is ſolde for.</item>
+            </list>
+            <list>
+               <head>Muſonius apud<g ref="char:punc">▪</g> Gellium.</head>
+               <label>Si per laborem honeſti quippiam egeris, labor abit honeſtum manet: ſi per voluntatem turpe quipp<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> feceris, voluptas abit, turpitudo manet.</label>
+               <item>
+                  <pb facs="tcp:5833:9"/>
+If throughe labour thou ſhalte work<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> the laboure vanyſhet<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> tary<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th. But yf the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> thou ſhalt worke an<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> pleaſure vanyſ<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e and <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+            </list>
+            <trailer>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sententiarum J<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <lb/>
+FINIS</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprynted at London in Fleet ſtrete at the ſygne of the Roſe Garland by Wyllyam Copland.</p>
+            <p>for Rychard Kele dwellynge in Lombard ſtrete nere vnto the Stockes market at the ſyg<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of the Egle.</p>
+            <pb facs="tcp:5833:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
